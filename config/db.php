@@ -5,7 +5,7 @@
  * This is the place where your database constants are saved
  */
 
-define("DB_HOST", "us-cdbr-azure-east-b.cloudapp.net");
-define("DB_NAME", "therealALQGdGZ3k");
-define("DB_USER", "b34f8408374e60");
-define("DB_PASS", "09198f03");
+define("DB_HOST", "sktfz6c8q8.database.windows.net");
+define("DB_NAME", "sktfz6c8q8");
+define("DB_USER", "dw33zy12");
+define("DB_PASS", "Nomad123");
